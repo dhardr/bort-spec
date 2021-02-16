@@ -32,6 +32,30 @@ Algunos de los paquetes de UI más utilizados:
 - Bulma: [https://semantic-ui.com/](https://semantic-ui.com/)
 - Foundation: [https://get.foundation/](https://get.foundation/)
 
+## Especificación
+
+Se proponen unas funcionalidades básicas que pueden ser expandidas para incluir detalles que uno quiera implementar. Vamos a definir algunos elementos básicos y luego mencionar aquellas cosas que podrían agregarse o no, de acuerdo a que features quieran ofrecer.
+
+### Usuarios & Identidad
+
+BORT puede ser desarrollado sin el concepto de usuarios. Es decir, que quien sea que entra a nuestro sitio puede leer anuncios y escribir nuevos. El problema es que no podríamos atribuir las entradas a personas en particular.
+Sin embargo, hay muchas funcionalidades alternativas que sólo son posibles si existe el concepto de usuarios registrados. 
+Por ejemplo:
+- Ver qué usuario ha publicado tal o cual anuncio. 
+- Posibilidad de editar un a anuncio (sólo si soy el autor del mismo).
+- Restringir el acceso a la red para usuarios registrados.
+- Incorporar concepto de usuario moderador (super-usuario) que tenga la potestad de elminar contenido inapropiado.
+- Y montones de cosas mas.
+
+Todo esto requiere la implementación de página de registro y log in, que no se detallan en las maquetas porque cada uno puede las puede diseñar como quiera.
+Ustedes pueden comenzar con el desarrollo SIN concepto de usuarios o bien, plantear desde el vamos que necesitamos esa funcionalidad antes de seguir con el resto.
+
+NOTA: Si eventualmente publicamos nuestro producto online, vale la pena que exista una manera de utilizar el sitio sin logearse y sin registrarse ya que algunos de ustedes podrían querer utilizar esto como portafolio/vidriera y demostrar las funcionalidades a otros (que si tienen que registrarse quizás les de pereza).
+User Interface / User Experience
+
+### Vista: Home 
+
+
 
 
 
