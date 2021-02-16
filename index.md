@@ -1,6 +1,9 @@
 # BORT Spec
 v-1.0.0
 
+![Sketch](img/sketch.png "sketch")
+
+
 ## Intro
 Es una micro red social que permite publicar “anuncios” o “novedades” o “mini blogs” de sus usuarios para ser compartidos. Cómo está pensada para ser utilizada en entornos pequeños (grupo de trabajo, o de amigos, o del club de barrio), todos los usuarios verán todo el contenido y no hay concepto de “seguidores”. Todo el mundo tiene el mismo feed.
 
