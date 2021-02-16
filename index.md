@@ -1,7 +1,7 @@
 # BORT Spec
 v-1.0.0
 
-![Sketch](img/sketch.png "sketch")
+![Sketch](sketch.png "sketch")
 
 
 ## Intro
