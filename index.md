@@ -54,7 +54,8 @@ Todo esto requiere la implementación de página de registro y log in, que no se
 Ustedes pueden comenzar con el desarrollo SIN concepto de usuarios o bien, plantear desde el vamos que necesitamos esa funcionalidad antes de seguir con el resto.
 
 NOTA: Si eventualmente publicamos nuestro producto online, vale la pena que exista una manera de utilizar el sitio sin logearse y sin registrarse ya que algunos de ustedes podrían querer utilizar esto como portafolio/vidriera y demostrar las funcionalidades a otros (que si tienen que registrarse quizás les de pereza).
-User Interface / User Experience
+
+## User Interface / User Experience
 
 ### Vista: Home 
 
