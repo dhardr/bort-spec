@@ -87,6 +87,13 @@ Una alternativa es que la navegación te conduzca a la página de Read, abandona
 
 ![Add](img/add.png "Add")
 
+9. Vemos la vista ADD al cliquear el botón "+". Se nos presenta un formulario de entrada de un anuncio con un Título y Contenido.
+Al enviarse, grabaremos la información en la base de datos y podremos ver los resultados en la Home. Quienes quieran, pueden introducir el concepto de moderación, de manera que un contenido enviado por un usuario pueda/deba ser aprobado por otros usuarios en calidad de moderadores (requiere lógica y UI para tal funcionalidad).
+10. Campo de texto "Title"
+11. Campo de texto multilínea para escribir el contenido. NOTA: Si el contenido es texto plano, entonces el resultado será algo así como lo que sucede en Twitter (texto simple) y no podremos contar con formato (párrafos, estilo de texto, colores, etc). Si queremos dar esa función, podemos buscar un componente editor [https://es.wikipedia.org/wiki/WYSIWYG]WYSIWYG que permita al usuario entrar contenido HTML (guarda que es propenso a vulnerabilidades). También se puede utilizar [https://es.wikipedia.org/wiki/Markdown]Markdown que viene a ser muy práctico y no debería ser complejo de procesar.
+12. El botón submit envía el contenido si no hubieron errores de validación (campos en blanco, etc). Si se procesa con éxito, mostraremos una vista confirmado con una carita feliz.
+
+
 
 
 
