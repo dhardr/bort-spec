@@ -74,8 +74,13 @@ Sin embargo, esta parte se puede diseñar de otra manera de acuerdo a las prefer
 Una alternativa es que la navegación te conduzca a la página de Read, abandonando la Home, como lo hacen por ejemplo aquí [https://news.ycombinator.com](https://news.ycombinator.com/).\
 
 ![Read](img/read.png "Read")
+
 7. Es la pantalla que muestra el contenido del anuncio/artículo.
 8. Un botón Back nos lleva de regreso a la Home.
+
+### Vista: Add
+
+![Add](img/add.png "Add")
 
 
 
