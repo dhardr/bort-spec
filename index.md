@@ -55,6 +55,26 @@ User Interface / User Experience
 
 ### Vista: Home 
 
+![Home](img/home.png "Home")
+
+La Home presenta la lista de anuncios que hay actualmente en el sistema.
+1.	Listado de anuncios realizados, mostrando en cada renglón, un preview del título del contenido
+Ordenados por fecha decreciente
+2.	Preview del anuncio, si cliqueamos vamos al contenido para ese anuncio, en la vista Read
+3.	Campo de búsqueda. Haremos una búsqueda de contenido para filtrar el contenido del listado.
+Luego de buscar podremos tener algunos resultados o ningún resultado. En todos los casos debe haber una manera de volver hacia atrás, limpiando la búsqueda y volver a ver el contenido inicial.
+Opcional: Puede haber un botón “Search” o bien buscar a medida que el usuario ingresa teclas.
+4.	El tablero mostrará los primeros N anuncios, por lo tanto, podemos seguir viendo que hay mas allá presionando el botón Older que cargará los siguientes anuncios, siempre en órden de fecha decreciente.
+5.	Es el botón para ingresar un nuevo anuncio. Nos lleva a la pantalla “Add”.
+
+### Vista: Read 
+
+En el ejemplo del sketch, al cliquear un elemento/anuncio de la Home, aparece una pantalla para ver el contenido del mismo. Notar que en el caso ejemplificado, esta nueva pantalla se posiciona junto a el tablero de la Home y permanece visible para que el usuario pueda continuar cliqueando artículos sin cerrar la vista Read. Básicamente, para hacer “zapping” de anuncios.\
+
+Sin embargo, esta parte se puede diseñar de otra manera de acuerdo a las preferencias que tengan y además hay que tener en cuenta que una interfaz como esta, es un poco mas natural en el caso de que estemos trabajando en SPA (y no en MVC) ya que se da la sensación de que lo que estamos usando es una aplicación, y no tanto una página web.
+Una alternativa es que la navegación te conduzca a la página de Read, abandonando la Home, como lo hacen por ejemplo aquí [https://news.ycombinator.com](https://news.ycombinator.com/).\
+
+
 
 
 
