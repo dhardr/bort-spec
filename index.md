@@ -32,7 +32,7 @@ Algunos de los paquetes de UI más utilizados:
 - Material: [https://materializecss.com/](https://materializecss.com/)
 - UI Kit: [https://getuikit.com/](https://getuikit.com/)
 - Semantic UI: [https://semantic-ui.com/](https://semantic-ui.com/)
-- Bulma: [https://semantic-ui.com/](https://semantic-ui.com/)
+- Bulma: [https://bulma.io/](https://bulma.io/)
 - Foundation: [https://get.foundation/](https://get.foundation/)
 
 ## Especificación
